@@ -5,7 +5,7 @@
   
   
 
-- 🌱 I’m currently learning **Python, Java, Javascript, HTML and CSS**
+- 🌱 I’m currently learning **Python, Java, Javascript, HTML, CSS,Flutter,Firebase,React.js and MySQL**
 
 - 📫 How to reach me **nirukshikasewwandi@gmail.com**
 
